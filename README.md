@@ -2,8 +2,6 @@
 
 ## Screenshot
 
-![flutter ui transition file]()
-
 ![flutter ui transition file 1](https://user-images.githubusercontent.com/52483128/209479843-a66b3073-847e-405f-b826-6c01d0ab87cd.png)
 
 ![flutter ui transition file 2](https://user-images.githubusercontent.com/52483128/209479848-f2cbc9c8-1d3f-47c3-8257-b9648f6555f4.png)
