@@ -1,6 +1,6 @@
 # flutter_ui_transition
 
-## Screenshot
+## screenshot
 
 ![flutter ui transition file 1](https://user-images.githubusercontent.com/52483128/209479843-a66b3073-847e-405f-b826-6c01d0ab87cd.png)
 
